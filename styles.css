@@ -1,11 +1,26 @@
-* {
-	margin: 0;
-}
-
 body {
 	font-family: 'Libre Baskerville', serif;
 }
 
+h1 {
+	font-size: 30px;
+	padding: 50px;
+	border: 1px solid #5d6063;
+}
+
 p {
 	font-family: 'Exo 2', sans-serif;
+	font-size: 15px;
+	padding: 20px 0 20px 10px;
+	margin-bottom: 50px;
+}
+
+h1,
+p {
+	background-color: #dde0e3;
+}
+
+em,
+strong {
+	background-color: #b2d6ff;
 }
